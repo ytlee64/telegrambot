@@ -8,7 +8,7 @@ MSG_RESET_ETHER_ADDR = u'Click the button to set your Valid ether Wallet address
 MSG_SET_ETHER_ADDR_SUCESSE = u'Your ether Wallet address was added successfully'
 MSG_SET_EMAIL = u'Click the button to set your Email address'
 MSG_SET_EMAIL_SUCESSE = u'Your email was added successfully'
-MSG_WRONGINPUT = u'Wrong Input'
+MSG_WRONGINPUT = u'Wrong Input!'
 MSG_RESET_EMAIL = u'Click the button to set your Valid Email address'
 MSG_COMPLETE = u"""Complete
 join our Group Chat @coinisland\_official
