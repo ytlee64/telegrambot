@@ -24,9 +24,9 @@ import botprocess
 import debug
 
 # 봇 토큰, 봇 API 주소
-TOKEN = '808526857:AAHmh6LmjZ1oJ5VRn7_Lzo9xjDZ6knVHHN8'
+TOKEN = '----------------------'
 BASE_URL = 'https://api.telegram.org/bot' + TOKEN + '/'
-# https://api.telegram.org/bot/808526857:AAHmh6LmjZ1oJ5VRn7_Lzo9xjDZ6knVHHN8/
+# https://api.telegram.org/bot/------------------/
 
 # 봇이 응답할 명령어
 CMD_START = '/start'
